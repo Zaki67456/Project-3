@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Playwright
+playwright/.local-browsers/
+
+# VS Code
+.vscode/
